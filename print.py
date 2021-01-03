@@ -3,3 +3,5 @@ toPrint	= 'Just a print check'
 print(toPrint)
 
 print(toPrint+' with some refactor')
+
+print('will be '+toPrint)
