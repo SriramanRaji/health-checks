@@ -4,4 +4,4 @@ print(toPrint)
 
 print(toPrint+' with some refactor')
 
-print('will be '+toPrint)
+print('will be '+toPrint+' again with a refactor')
