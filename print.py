@@ -5,3 +5,5 @@ print(toPrint)
 print(toPrint+' with some refactor')
 
 print('will be '+toPrint+' again with a refactor')
+
+print('made changes from remote')
