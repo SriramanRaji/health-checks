@@ -1,2 +1,3 @@
 """Printing a sentence"""
-print('Just a print check')
+toPrint	= 'Just a print check'
+print(toPrint)
